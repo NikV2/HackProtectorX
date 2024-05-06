@@ -1,0 +1,7 @@
+name: HackProtectorX
+version: ${project.version}
+main: me.nik.hackprotectorx.HackProtectorX
+api-version: 1.13
+prefix: HackProtectorX
+authors: [ Nik ]
+description: ${project.description}
