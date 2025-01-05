@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class CheatListener implements Listener {
+public class CheatAnalyzer implements Listener {
 
     /**
      * We want to run the Reach check asynchronously as brute-forcing interpolation might take some time.
